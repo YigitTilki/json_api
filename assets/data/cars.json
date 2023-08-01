@@ -1,0 +1,38 @@
+[
+    {
+        "car_name": "Mercedes",
+        "Country": "Germany",
+        "Since": 1920,
+        "model": [
+            {
+               "model_name": "a series",
+               "price": 15000,
+               "diesel": false 
+            },
+            {
+                "model_name": "c series",
+                "price": 19000,
+                "diesel": true 
+             }
+
+        ]
+    },
+    {
+        "car_name": "Bmw",
+        "Country": "Germany",
+        "Since": 1940,
+        "model": [
+            {
+               "model_name": "m series",
+               "price": 18000,
+               "diesel": false 
+            },
+            {
+                "model_name": "x series",
+                "price": 25000,
+                "diesel": true 
+             }
+
+        ]
+    }
+]
